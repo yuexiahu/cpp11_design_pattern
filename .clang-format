@@ -1,0 +1,15 @@
+---
+BasedOnStyle: Microsoft
+AccessModifierOffset: '-4'
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: Empty
+AlwaysBreakTemplateDeclarations: 'Yes'
+BreakBeforeBinaryOperators: All
+BreakConstructorInitializers: BeforeComma
+NamespaceIndentation: Inner
+PointerAlignment: Left
+SpaceBeforeCpp11BracedList: 'true'
+UseTab: Never
+SortIncludes: 'false'
+
+...
